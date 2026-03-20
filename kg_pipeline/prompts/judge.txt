@@ -1,0 +1,23 @@
+You are verifying a knowledge graph triple.
+
+Text:
+"{denoised_text}"
+
+Triple:
+{head} — {relation} — {tail}
+
+Instructions:
+- The relation does NOT need to match exact wording
+- Accept if the meaning is clearly supported by the text
+- Allow paraphrases:
+
+Steps:
+1. Find supporting evidence in text
+2. Check if triple meaning is supported (not necessarily exact wording)
+
+Return STRICT JSON:
+{
+  "valid": true/false,
+  "evidence": "...",
+  "reason": "..."
+}

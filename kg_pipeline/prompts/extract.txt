@@ -1,0 +1,34 @@
+You are an information extraction system.
+
+Return ONLY a valid JSON array.
+Do NOT include explanations.
+Do NOT include markdown.
+Do NOT include text before or after JSON.
+
+STRICT FORMAT:
+[
+  {"head": "...", "relation": "...", "tail": "..."}
+]
+
+Text:
+"{denoised_text}"
+
+Entity A: "{canonical_a}"
+Entity B: "{canonical_b}"
+
+Allowed relations:
+- affiliated_with
+- located_in
+- developed_by
+- published_in
+- conducted_in
+- partner_with
+
+Rules:
+- Only use given entities EXACTLY
+- Do NOT modify entity names
+- Do NOT return arrays in tail
+- Each triple must be a simple string triplet
+- If no relation exists, return []
+
+OUTPUT:
