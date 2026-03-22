@@ -1,0 +1,308 @@
+{
+  "entity_clusters": [
+    {
+      "canonical": "Leia Organa of Alderaan",
+      "types": [
+        "PER"
+      ],
+      "mentions": [
+        "Leia Organa of Alderaan"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Queen of Naboo",
+      "types": [
+        "LOC"
+      ],
+      "mentions": [
+        "Queen of Naboo"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Kylo Ren",
+      "types": [
+        "PER"
+      ],
+      "mentions": [
+        "Kylo Ren"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Luke Skywalker",
+      "types": [
+        "PER"
+      ],
+      "mentions": [
+        "Luke Skywalker"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Galactic Empire",
+      "types": [
+        "LOC",
+        "MISC"
+      ],
+      "mentions": [
+        "Empire",
+        "Galactic Empire"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Ben Solo",
+      "types": [
+        "PER"
+      ],
+      "mentions": [
+        "Ben Solo"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Darth Vader",
+      "types": [
+        "PER"
+      ],
+      "mentions": [
+        "Darth Vader"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Obi - Wan Kenobi",
+      "types": [
+        "PER"
+      ],
+      "mentions": [
+        "Obi - Wan Kenobi"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Han Solo",
+      "types": [
+        "PER"
+      ],
+      "mentions": [
+        "Han Solo"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Mark Hamill",
+      "types": [
+        "PER"
+      ],
+      "mentions": [
+        "Mark Hamill"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Padm Amidala",
+      "types": [
+        "PER"
+      ],
+      "mentions": [
+        "Padm Amidala"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Jedi Anakin Skywalker",
+      "types": [
+        "PER"
+      ],
+      "mentions": [
+        "Jedi Anakin Skywalker"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Yoda",
+      "types": [
+        "PER"
+      ],
+      "mentions": [
+        "Yoda"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "2015",
+      "types": [
+        "TIME"
+      ],
+      "mentions": [
+        "2015"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Rebel Alliance",
+      "types": [
+        "ORG"
+      ],
+      "mentions": [
+        "Rebel Alliance"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Star Wars",
+      "types": [
+        "MISC"
+      ],
+      "mentions": [
+        "Star Wars"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "George Lucas",
+      "types": [
+        "PER"
+      ],
+      "mentions": [
+        "George Lucas"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Republic",
+      "types": [
+        "LOC"
+      ],
+      "mentions": [
+        "Republic"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Jedi Masters",
+      "types": [
+        "ORG"
+      ],
+      "mentions": [
+        "Jedi Masters"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Fandomania",
+      "types": [
+        "ORG"
+      ],
+      "mentions": [
+        "Fandomania"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "100 Greatest Fictional Characters",
+      "types": [
+        "MISC"
+      ],
+      "mentions": [
+        "100 Greatest Fictional Characters"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "14",
+      "types": [
+        "NUM"
+      ],
+      "mentions": [
+        "14"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "com",
+      "types": [
+        "ORG"
+      ],
+      "mentions": [
+        "com"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "50th",
+      "types": [
+        "NUM"
+      ],
+      "mentions": [
+        "50th"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "the 100",
+      "types": [
+        "MISC"
+      ],
+      "mentions": [
+        "the 100"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    }
+  ],
+  "verified_triples": [
+    {
+      "head": "Obi - Wan Kenobi",
+      "relation": "P1441",
+      "tail": "Star Wars"
+    },
+    {
+      "head": "Yoda",
+      "relation": "P1441",
+      "tail": "Star Wars"
+    },
+    {
+      "head": "Star Wars",
+      "relation": "P674",
+      "tail": "Luke Skywalker"
+    },
+    {
+      "head": "Star Wars",
+      "relation": "P161",
+      "tail": "Mark Hamill"
+    },
+    {
+      "head": "George Lucas",
+      "relation": "P800",
+      "tail": "Star Wars"
+    }
+  ]
+}

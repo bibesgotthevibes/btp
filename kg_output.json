@@ -1,0 +1,96 @@
+{
+  "entity_clusters": [
+    {
+      "canonical": "Evelyn Reed",
+      "types": [
+        "Person"
+      ],
+      "mentions": [
+        "Evelyn Reed"
+      ],
+      "wikidata_id": "evelyn_reed"
+    },
+    {
+      "canonical": "Mayo Clinic",
+      "types": [
+        "Organization"
+      ],
+      "mentions": [
+        "Mayo Clinic"
+      ],
+      "wikidata_id": "mayo_clinic"
+    },
+    {
+      "canonical": "Farma Corp",
+      "types": [
+        "Company"
+      ],
+      "mentions": [
+        "Farma Corp"
+      ],
+      "wikidata_id": "farma_corp"
+    },
+    {
+      "canonical": "New England Journal of Medicine",
+      "types": [
+        "Publication"
+      ],
+      "mentions": [
+        "New England Journal of Medicine"
+      ],
+      "wikidata_id": "new_england_journal_of_medicine"
+    },
+    {
+      "canonical": "Cardia Care",
+      "types": [
+        "Drug"
+      ],
+      "mentions": [
+        "Cardia Care"
+      ],
+      "wikidata_id": "cardia_care"
+    }
+  ],
+  "verified_triples": [
+    {
+      "head": "Evelyn Reed",
+      "relation": "affiliated_with",
+      "tail": "Mayo Clinic"
+    },
+    {
+      "head": "Farma Corp",
+      "relation": "developed_by",
+      "tail": "Cardia Care"
+    },
+    {
+      "head": "Evelyn Reed",
+      "relation": "presented_research_on",
+      "tail": "Cardia Care"
+    },
+    {
+      "head": "Cardia Care",
+      "relation": "targets",
+      "tail": "AT1 receptor"
+    },
+    {
+      "head": "Mayo Clinic",
+      "relation": "located_in",
+      "tail": "Rochester, Minnesota"
+    },
+    {
+      "head": "Farma Corp",
+      "relation": "listed_on",
+      "tail": "PHC (stock)"
+    },
+    {
+      "head": "Cardia Care",
+      "relation": "published_in",
+      "tail": "New England Journal of Medicine"
+    },
+    {
+      "head": "Evelyn Reed",
+      "relation": "mentioned_planning_phase_three_trial",
+      "tail": "Mayo Clinic"
+    }
+  ]
+}

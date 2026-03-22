@@ -1,0 +1,276 @@
+{
+  "entity_clusters": [
+    {
+      "canonical": "Bowser",
+      "types": [
+        "PER"
+      ],
+      "mentions": [
+        "Bowser"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Yoshi ' s Island",
+      "types": [
+        "MISC",
+        "PER"
+      ],
+      "mentions": [
+        "Yoshi",
+        "Yoshi ' s Island"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Dinosaur Land",
+      "types": [
+        "LOC"
+      ],
+      "mentions": [
+        "Dinosaur Land"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "1990",
+      "types": [
+        "TIME"
+      ],
+      "mentions": [
+        "1990"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Super Mario Advance 2",
+      "types": [
+        "MISC",
+        "MISC",
+        "MISC",
+        "MISC"
+      ],
+      "mentions": [
+        "Mario",
+        "Super Mario Advance 2",
+        "Super Mario All",
+        "Super Mario World"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "1994",
+      "types": [
+        "TIME"
+      ],
+      "mentions": [
+        "1994"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Koopa Troopas",
+      "types": [
+        "PER"
+      ],
+      "mentions": [
+        "Koopa Troopas"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "20 million",
+      "types": [
+        "NUM"
+      ],
+      "mentions": [
+        "20 million"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Koopalings",
+      "types": [
+        "PER"
+      ],
+      "mentions": [
+        "Koopalings"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "2001",
+      "types": [
+        "TIME"
+      ],
+      "mentions": [
+        "2001"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Shigeru Miyamoto",
+      "types": [
+        "PER"
+      ],
+      "mentions": [
+        "Shigeru Miyamoto"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Game Boy Advance",
+      "types": [
+        "MISC"
+      ],
+      "mentions": [
+        "Game Boy Advance"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "1995",
+      "types": [
+        "TIME"
+      ],
+      "mentions": [
+        "1995"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Takashi Tezuka",
+      "types": [
+        "PER"
+      ],
+      "mentions": [
+        "Takashi Tezuka"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Nintendo",
+      "types": [
+        "ORG",
+        "MISC",
+        "MISC"
+      ],
+      "mentions": [
+        "New Nintendo 3DS",
+        "Nintendo",
+        "Super Nintendo Entertainment System"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Wii",
+      "types": [
+        "MISC",
+        "MISC"
+      ],
+      "mentions": [
+        "Wii",
+        "Wii U"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "SNES",
+      "types": [
+        "MISC",
+        "MISC"
+      ],
+      "mentions": [
+        "NES",
+        "SNES"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Princess Toadstool",
+      "types": [
+        "PER"
+      ],
+      "mentions": [
+        "Princess Toadstool"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Luigi",
+      "types": [
+        "PER"
+      ],
+      "mentions": [
+        "Luigi"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Virtual Console",
+      "types": [
+        "MISC",
+        "MISC"
+      ],
+      "mentions": [
+        "Virtual Console",
+        "console"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Development",
+      "types": [
+        "ORG"
+      ],
+      "mentions": [
+        "Development"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "million copies",
+      "types": [
+        "NUM"
+      ],
+      "mentions": [
+        "million copies"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Classic Edition",
+      "types": [
+        "MISC"
+      ],
+      "mentions": [
+        "Classic Edition"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    }
+  ],
+  "verified_triples": []
+}

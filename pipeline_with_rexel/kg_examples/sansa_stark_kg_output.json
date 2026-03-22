@@ -1,0 +1,196 @@
+{
+  "entity_clusters": [
+    {
+      "canonical": "1996",
+      "types": [
+        "TIME"
+      ],
+      "mentions": [
+        "1996"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "Sansa Stark",
+      "types": [
+        "PER",
+        "ORG",
+        "MISC",
+        "MISC",
+        "PER",
+        "MISC",
+        "PER",
+        "MISC",
+        "PER",
+        "LOC",
+        "MISC",
+        "MISC",
+        "PER",
+        "MISC",
+        "PER",
+        "PER",
+        "MISC",
+        "MISC",
+        "PER",
+        "MISC"
+      ],
+      "mentions": [
+        "A Dance with Dragons",
+        "A Feast for Crows",
+        "A Game of Thrones",
+        "A Storm of Swords",
+        "American",
+        "Eddard Stark",
+        "Game of Thrones",
+        "George R",
+        "Lady Catelyn Stark",
+        "Martin",
+        "Outstanding Performance",
+        "R",
+        "Rolling Stone",
+        "Sansa",
+        "Sansa Stark",
+        "Screen Actors Guild Awards",
+        "Sophie Turner",
+        "The Winds of Winter",
+        "a Drama Series",
+        "of Ice and Fire"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "HBO",
+      "types": [
+        "ORG"
+      ],
+      "mentions": [
+        "HBO"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "2005",
+      "types": [
+        "TIME"
+      ],
+      "mentions": [
+        "2005"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "1998",
+      "types": [
+        "TIME"
+      ],
+      "mentions": [
+        "1998"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "2000",
+      "types": [
+        "TIME"
+      ],
+      "mentions": [
+        "2000"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "2012",
+      "types": [
+        "TIME"
+      ],
+      "mentions": [
+        "2012"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "A Clash of Kings",
+      "types": [
+        "MISC"
+      ],
+      "mentions": [
+        "A Clash of Kings"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "2016",
+      "types": [
+        "TIME"
+      ],
+      "mentions": [
+        "2016"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "2014",
+      "types": [
+        "TIME"
+      ],
+      "mentions": [
+        "2014"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "2015",
+      "types": [
+        "TIME"
+      ],
+      "mentions": [
+        "2015"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    },
+    {
+      "canonical": "A Song of Ice",
+      "types": [
+        "MISC"
+      ],
+      "mentions": [
+        "A Song of Ice"
+      ],
+      "wikidata_id": null,
+      "wikipedia_name": null
+    }
+  ],
+  "verified_triples": [
+    {
+      "head": "A Clash of Kings",
+      "relation": "P577",
+      "tail": "1998"
+    },
+    {
+      "head": "A Clash of Kings",
+      "relation": "P179",
+      "tail": "A Song of Ice"
+    },
+    {
+      "head": "A Song of Ice",
+      "relation": "P577",
+      "tail": "1996"
+    },
+    {
+      "head": "A Song of Ice",
+      "relation": "P449",
+      "tail": "HBO"
+    }
+  ]
+}

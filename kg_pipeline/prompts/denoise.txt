@@ -1,0 +1,4 @@
+Rewrite the following document keeping only content relevant to the main topic.
+Remove all advertisements, promotional text, formatting noise, and irrelevant sections.
+Return only the cleaned text. No explanation. No markdown.
+Document: {raw_text}
